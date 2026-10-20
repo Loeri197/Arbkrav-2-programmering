@@ -103,8 +103,7 @@ const students = [
 
 
 //4.Beregner og skriver ut gjennomsnittsalder(runder av til to desimaler)
-//https://gemini.google.com/app/13dc9f63403faa19?hl=no Her har jeg brukt Math.round som hjelp
-//FINN EN LINK HER SOM VISER MATH.CEIL
+//https://gemini.google.com/share/d/1fd8jB7TmSuTVeP7bVwqcfxkhm1VUKFnW?usp=sharing
 
 
 let sumAlder= 0
