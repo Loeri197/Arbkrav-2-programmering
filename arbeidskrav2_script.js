@@ -62,7 +62,7 @@ const students = [
 
 
 //3.Teller og skriver ut antall av hver karakter til #gradeA, #grade B osv.
-//<a href="https://gemini.google.com/app/dbab44948ecd7cfd?hl=no">Lenke til oppgave</a> Brukte denne som veiledning i oppgaven.
+//https://gemini.google.com/share/d/17R3uMLLttyQ0S2pKUo73Iw2t4MgrTwok?usp=sharing 
 
     let antallA = 0;
     let antallB = 0;
